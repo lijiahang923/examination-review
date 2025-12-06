@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb20920cbce5ab2b",
@@ -196,10 +197,11 @@
   },
   "active": "dcd3616751ada145",
   "lastOpenFiles": [
+    "中期答辩.md",
+    "人工智能基础.md",
     "数据库复习资料.md",
     "传感器与检测技术.md",
     "未命名.base",
-    "人工智能基础.md",
     "人工智能基础.html"
   ]
 }
