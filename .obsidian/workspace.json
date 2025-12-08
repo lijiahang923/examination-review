@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "课程/传感器与检测技术.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb20920cbce5ab2b",
@@ -195,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4b1ad46f8565ec5",
+  "active": "3cef607350f392c6",
   "lastOpenFiles": [
     "Language/英语.md",
     "Language/日语.md",
