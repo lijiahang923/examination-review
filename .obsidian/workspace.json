@@ -15,7 +15,7 @@
               "state": {
                 "file": "课程/传感器与检测技术.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "传感器与检测技术"
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bb20920cbce5ab2b",
@@ -196,9 +197,9 @@
   },
   "active": "3cef607350f392c6",
   "lastOpenFiles": [
+    "课程/传感器与检测技术.md",
     "Language/英语.md",
     "Language/日语.md",
-    "课程/传感器与检测技术.md",
     "高考/高考政治.md",
     "高考/高考英语.md",
     "高考/高考语文.md",
