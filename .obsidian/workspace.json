@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3cef607350f392c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程/传感器与检测技术.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "传感器与检测技术"
-            }
-          },
-          {
             "id": "48159a5775e54d55",
             "type": "leaf",
             "state": {
@@ -49,8 +35,7 @@
               "title": "日本语语法点合集"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb20920cbce5ab2b",
@@ -186,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language/日本語/日本语语法点合集.md",
+                "file": "Language/日本語/日本語文法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "日本语语法点合集 的大纲"
+              "title": "日本語文法 的大纲"
             }
           },
           {
@@ -224,12 +208,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e43ff6839ea72db1",
+  "active": "48159a5775e54d55",
   "lastOpenFiles": [
+    "课程/电机与电力电子.md",
     "Language/日本語/日本語文法.md",
+    "Language/日本語/日本语语法点合集.md",
+    "Markdown语法.md",
     "课程/传感器与检测技术.md",
     "Language/English/英语.md",
-    "Language/日本語/日本语语法点合集.md",
     "Language/English",
     "Language/日本語",
     "未命名",
