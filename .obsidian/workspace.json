@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "电机与电力电子"
             }
-          },
-          {
-            "id": "990e9ea8c87f2cea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Language/日本語/日本语语法点合集.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "日本语语法点合集"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bb20920cbce5ab2b",
@@ -172,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language/日本語/日本语语法点合集.md",
+                "file": "课程/电机与电力电子.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "日本语语法点合集 的大纲"
+              "title": "电机与电力电子 的大纲"
             }
           },
           {
@@ -210,17 +194,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "990e9ea8c87f2cea",
+  "active": "48159a5775e54d55",
   "lastOpenFiles": [
+    "Code/ROS Jazzy & Gazebo Harmonic.md",
     "课程/电机与电力电子.md",
     "课程/传感器与检测技术.md",
-    "Language/日本語/日本語文法.md",
+    "考研/政治.md",
+    "考研/高等数学.md",
+    "考研",
+    "Code/C & C++.md",
+    "Study/Markdown语法.md",
+    "Code/Python.md",
+    "Code/AI.md",
+    "Language/English/Engish Grammar.md",
+    "Code",
     "Language/日本語/日本语语法点合集.md",
-    "Markdown语法.md",
-    "Language/English/英语.md",
+    "Language/日本語/日本語文法.md",
     "Language/English",
     "Language/日本語",
-    "未命名",
     "日本语（Gemini 3 Pro）.md",
     "高考/高考政治.md",
     "高考/高考英语.md",

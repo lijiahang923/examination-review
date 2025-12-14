@@ -731,6 +731,153 @@
 *   Happy (HAP-py)
 *   Tonight (to-NIGHT)
 
+---
+## 第四模块：语音进阶 (Advanced Phonetics) —— 流利说的秘密
+
+### 1. 核心技术一：连读 (Linking) —— 拒绝断层
+
+英语是一门“连绵不断”的语言。单词与单词之间不允许有明显的停顿。
+
+#### ① “辅音 + 元音”连读 (Consonant + Vowel)
+
+这是最基础、最常用的一招。  
+**规则**：前一个词以**辅音结尾**，后一个词以**元音开头**。把前面的辅音“抢”过来，拼给后面的元音。
+
+- Look at → 读成 **/lu-kæt/** (k 和 at 拼在一起)
+    
+- Stand up → 读成 **/stan-dʌp/** (d 和 up 拼在一起)
+    
+- Not at all → 读成 **/nɔ-tə-tɔːl/** (t-a, t-a 连了两次，像 Na-ta-tall)
+    
+- Put it on → **/pʊ-tɪ-tɒn/**
+    
+
+> **练习心法**：想象后一个单词不存在，前面的辅音直接变成了后一个单词的开头字母。
+
+#### ② “辅音 + 辅音”合并 (Consonant + Consonant)
+
+**规则**：前一个词结尾的辅音，和后一个词开头的辅音**相同**或**相似**。  
+**操作**：**只读一次**，但在发音位置稍微停顿一下（延长时长），不要读出两个音。
+
+- Good day → 读成 **/gʊ-deɪ/** (不要读 Good-d-day)
+    
+- Black coffee → 读成 **/blæ-kɒfi/** (k只读一次)
+    
+- Bus stop → 读成 **/bʌ-stɒp/** (s只读一次)
+    
+
+#### ③ “元音 + 元音”加音 (Vowel + Vowel) —— 隐形的桥梁
+
+这招比较高级。当两个元音碰到一起时，为了过渡平滑，嘴巴会自然产生一个轻微的**半元音** (/j/ 或 /w/)。
+
+- **加 /j/ (像 "爷" 的音)**：
+    
+    - 当前面的词以 **/iː/** 或 **/eɪ/** 结尾时。
+        
+    - See us → 读成 See **(y)** us
+        
+    - Pay all → 读成 Pay **(y)** all
+        
+- **加 /w/ (像 "我" 的音)**：
+    
+    - 当前面的词以 **/uː/** 或 **/oʊ/** 结尾时。
+        
+    - Do it → 读成 Do **(w)** it
+        
+    - Go out → 读成 Go **(w)** out
+        
+
+---
+
+### 2. 核心技术二：失去爆破 (Plosive Loss) —— 学会“憋气”
+
+英语中有6个爆破音：**/p, b, t, d, k, g/**。  
+**规则**：当这6个音出现在单词末尾，且后面紧跟另一个辅音时，**只做口型，不发声**（憋住气，停顿一瞬间）。
+
+- Si**t** down → 读成 Si(t)-down。
+    
+    - (舌头抵住上牙膛做t的动作，憋住气，然后直接发down。千万不要把t喷出来成“吸特-当”。)
+        
+- Goo**d** morning → 读成 Goo(d)-morning。
+    
+- Bla**ck**board → 读成 Bla(ck)-board。
+    
+- Hel**p** me → 读成 Hel(p)-me (闭上嘴做p，别喷气，直接发m)。
+    
+
+---
+
+### 3. 核心技术三：弱读 (Weak Forms) —— 节奏的灵魂
+
+英语是**“重音节拍语言”**。为了突显重要的词（实词），不重要的词（虚词）必须**弱读**。  
+最常见的弱读就是变成**“懒人音” /ə/**。
+
+- **To** (/tuː/ → **/tə/**):
+    
+    - Go to school → Go **tə** school
+        
+- **And** (/ænd/ → **/ən/**):
+    
+    - Rock and Roll → Rock **n** Roll
+        
+    - You and me → You **n** me
+        
+- **For** (/fɔːr/ → **/fər/**):
+    
+    - Just for you → Just **fər** you
+        
+- **Can** (/kæn/ → **/kən/**):
+    
+    - I can do it → I **kən** do it
+        
+
+> **节奏感训练**：  
+> 英语就像发电报：**DA**-da-**DA**-da-**DA**。  
+> I **want** to **go** to the **park**. (加粗的重读，to/the 弱读到几乎听不见)。
+
+---
+
+### 4. 核心技术四：浊化 (Flapping) —— 美音特色
+
+如果你喜欢看美剧，这一条必学。  
+**规则**：在美式英语中，当 **/t/** 夹在两个元音中间，且不在重读音节开头时，它会发成快速的、轻微的 **/d/**。
+
+- Water → 读成 **Wader** (瓦特 → 瓦德)
+    
+- Better → 读成 **Bedder**
+    
+- City → 读成 **Cidy**
+    
+- Letter → 读成 **Ledder**
+    
+- Put it on → Pu-**d**i-ton (这里的t也在元音u和i中间，连读后浊化)
+    
+
+---
+
+### 5. 语调 (Intonation) —— 情绪的表达
+
+同样的句子，语调不同，意思不同。
+
+- **降调 (↘)**：表示陈述、命令、特殊疑问句（Wh-）。**表示肯定、结束**。
+    
+    - What is your name? ↘ (正常的询问)
+        
+    - Sit down. ↘ (命令)
+        
+- **升调 (↗)**：表示一般疑问句（Yes/No）、惊讶、**未说完**。
+    
+    - Are you happy? ↗
+        
+    - Really? ↗ (惊讶)
+        
+    - I bought apples ↗, bananas ↗, and pears ↘. (列举时，前升后降)
+        
+
+---
+
+**第四批次（语音进阶详解）已输出完毕。**
+
 **恭喜你！**
 现在的你，已经掌握了英语**语音与拼读**最核心的规则。你不再是那个只能靠死记硬背字母顺序来拼单词的学生了，你可以开始尝试“读”出陌生的单词。
 
@@ -892,6 +1039,305 @@
 *   I need to buy some furnitures.
 
 **名词是构建句子的第一步。** 只有搞定了名词的“单复数”和“帽子”，你的英语句子才算站稳了脚跟。
+
+---
+## 第二批次：数量词与限定词 (Quantifiers & Determiners) —— 精确的“分寸感”
+
+### 1. 基础但有坑：Some vs Any
+
+大家都知道：“Some 用于肯定句，Any 用于否定和疑问句”。  
+**但这只是初级规则！** 高手必须掌握以下两条**特例**：
+
+#### ① 肯定句中的 Any —— “任选一个”
+
+当 Any 出现在肯定句中时，它的意思不是“一些”，而是**“任何一个”、“随便哪一个”**。
+
+- You can take **any** bus. (你可以坐**任何**一辆公交车 —— 随便哪辆都行，不挑。)
+    
+- Come **any** day you like. (随便哪天来都行。)
+    
+
+#### ② 疑问句中的 Some —— “期待 Yes”
+
+当我们在表示**建议、请求、邀请**，或者心里期待对方回答“Yes”时，要用 Some，显得更委婉礼貌。
+
+- Would you like **some** coffee? (你要不要喝点咖啡？—— 我希望你喝，而不是真的在问“你要不要”。)
+    
+- Can you lend me **some** money? (能不能借我点钱？—— 我希望你能借。)
+    
+
+---
+
+### 2. 情感色彩矩阵：Few / Little / A few / A little
+
+这四个词是阅读理解中判断作者**态度**的关键。  
+请记住这个 **2x2 矩阵**：
+
+|   |   |   |   |
+|---|---|---|---|
+||**可数名词** (如 friends)|**不可数名词** (如 money)|**情感色彩**|
+|**有 "a" (肯定)**|**A few**|**A little**|**积极**：虽然不多，但够用了 (有一点)|
+|**无 "a" (否定)**|**Few**|**Little**|**消极**：几乎没有了，不够用了|
+
+- **实战对比**：
+    
+    - I have **a few** friends. (我有一些朋友。—— **开心**，我不孤单。)
+        
+    - I have **few** friends. (我没几个朋友。—— **伤心**，我很孤单。)
+        
+    - He has **a little** English. (他懂一点英语。—— 能交流。)
+        
+    - He has **little** English. (他几乎不懂英语。—— 没法交流。)
+        
+
+> **高阶用法**：
+> 
+> - **Quite a few** = **Many** (相当多！不要被 few 骗了)
+>     
+> - I have been to America **quite a few** times. (我去过好多次美国。)
+>     
+
+---
+
+### 3. 多多益善：Many / Much / A lot of
+
+中文都叫“很多”，但用法大不同。
+
+- **Many**：修饰**可数**复数。
+    
+- **Much**：修饰**不可数**。
+    
+- **A lot of / Lots of / Plenty of**：**万能词**！可数不可数通吃。
+    
+
+**⚠️ 风格陷阱 (Style Tip)**：  
+在**现代口语和非正式写作**的**肯定句**中，老外极少用 Many/Much，而是用 A lot of。
+
+- 生硬：I have **much** money. (像19世纪的语法书)
+    
+- 地道：I have **a lot of** money.
+    
+- 注意：在否定句和疑问句中，用 Many/Much 是自然的 (I don't have much money).
+    
+
+---
+
+### 4. 两者 vs 三者 (The Grouping Logic)
+
+英语非常在意“是两个还是三个以上”。
+
+|   |   |   |   |
+|---|---|---|---|
+|范围|都 (100%)|都不 (0%)|任何一个|
+|**两者 (2)**|**Both**|**Neither**|**Either**|
+|**三者及以上 (3+)**|**All**|**None**|**Any**|
+
+- **Both / Neither / Either**：
+    
+    - Both of my parents are teachers. (父母**俩**都是。)
+        
+    - Neither of the two books is good. (两本都不好。)
+        
+    - I don't like either of them. (两个我都不喜欢 = Neither)
+        
+- **All / None / Any**：
+    
+    - All of the students passed. (全班通过。)
+        
+    - None of us know the answer. (我们没人知道。—— 3人以上)
+        
+
+> **主谓一致补充**：
+> 
+> - Neither of them **is**... (正式语法用单数)
+>     
+> - Neither of them **are**... (现代口语常用复数，考试建议写单数)
+>     
+> - None of... (同上，可单可复，视语境而定)
+>     
+
+---
+
+### 5. 终极噩梦：Other / Another / The other
+
+这是中国学生最容易晕的板块。画图最清楚，但文字也能讲透。
+
+- **Another** (An + other)：**泛指**三者或以上中的**“另一个”**。
+    
+    - I don't like this apple. Give me **another** (one). (随便再给我一个，哪一个都行。)
+        
+- **The other** (The + other)：**特指**两者中的**“这一个”**（剩下的那个）。
+    
+    - I have two hands. One is left, **the other** is right. (只有两个，剩下的肯定是右。)
+        
+- **Others**：**泛指**别人/别的东西（复数）。
+    
+    - Some people like apples; **others** like bananas. (一部分...另一部分...)
+        
+- **The others**：**特指**剩余的**全部**。
+    
+    - There are 50 students. 40 are boys; **the others** are girls. (剩下的那10个全是女生，一个不漏。)
+        
+
+---
+
+### 6. 每一次的纠结：Each vs Every
+
+都翻译成“每一个”，区别极其微妙。
+
+- **Each**：强调**个体** (Individual)。关注每一个单独的成员。
+    
+    - Study **each** sentence carefully. (逐字逐句地研究。)
+        
+    - 指代两者或以上 (2+)。
+        
+- **Every**：强调**全体** (Group)。侧重于“大家都是这样”，类似 All。
+    
+    - **Every** student has a book. (大家都有书。)
+        
+    - 指代三者或以上 (3+)。
+        
+    - 常用搭配: Every day (每天), Every two days (每两天).
+        
+
+---
+
+**第二批次（数量词与限定词深度补完）已输出完毕。**
+
+
+---
+## 第五模块：数词与连词 (Numerals & Conjunctions)
+
+### 1. 数词 (Numerals) —— 精确的世界
+
+数词分两类：**基数词**（多少个）和**序数词**（第几个）。
+
+#### ① 基数词 vs 序数词 (Cardinal vs Ordinal)
+
+大部分序数词只是在基数词后面加 th，但有几个**“变态”**需要死记：
+
+|   |   |   |   |
+|---|---|---|---|
+|数字|基数词 (个)|序数词 (第...)|记忆难点|
+|1|**One**|**First** (1st)|完全变身|
+|2|**Two**|**Second** (2nd)|完全变身|
+|3|**Three**|**Third** (3rd)|完全变身|
+|5|**Five**|**Fifth** (5th)|ve 变成 f|
+|8|**Eight**|**Eighth** (8th)|只加 h (不要两个t)|
+|9|**Nine**|**Ninth** (9th)|去掉 e 再加 th|
+|12|**Twelve**|**Twelfth** (12th)|ve 变成 f|
+|20|**Twenty**|**Twentieth** (20th)|y 变 ie 加 th|
+
+#### ② 大数字的规则：加不加 "S"？
+
+这是中国学生最纠结的。  
+**规则**：当 **Hundred / Thousand / Million / Billion** 前面有具体数字时，**不加 S**；前面没数字（表示“成百上千”）时，**加 S 且后面加 Of**。
+
+- **精确数字**：
+    
+    - Two **hundred** people. (✅)
+        
+    - Two **hundreds** people. (❌ 错！)
+        
+- **模糊数字**：
+    
+    - **Hundreds of** people. (成百上千的人 —— ✅)
+        
+    - **Millions of** dollars. (数百万美元 —— ✅)
+        
+
+#### ③ 分数表达法 (Fractions)
+
+**公式：分子用基数词，分母用序数词。分子大于1，分母要加S。**
+
+- **1/3**: One third (或 A third)
+    
+- **2/3**: Two third**s** (注意复数！)
+    
+- **1/2**: A half (不常说 one second)
+    
+- **1/4**: A quarter (或 One fourth)
+    
+
+#### ④ 年份与时刻的读法
+
+- **年份**：通常两位两位读。
+    
+    - **1998**: Nineteen ninety-eight
+        
+    - **2000**: Two thousand
+        
+    - **2023**: Twenty twenty-three
+        
+- **时刻**：
+    
+    - **7:00**: Seven o'clock
+        
+    - **7:15**: Seven fifteen 或 **A quarter past** seven
+        
+    - **7:30**: Seven thirty 或 **Half past** seven
+        
+    - **7:45**: Seven forty-five 或 **A quarter to** eight (差一刻八点)
+        
+
+---
+
+### 2. 连词 (Conjunctions) —— 逻辑的胶水
+
+连词负责把单词、短语或句子连起来。没有连词，英语就是一盘散沙。
+
+#### ① 并列连词 (Coordinating Conjunctions) —— FANBOYS
+
+这7个词专门连接**地位平等**的成分（词连词，句连句）。记忆口诀 **FANBOYS**：
+
+- **F - For** (因为): I slept, **for** I was tired. (比较正式)
+    
+- **A - And** (和): You **and** I.
+    
+- **N - Nor** (也不): He didn't go, **nor** did I. (注意倒装)
+    
+- **B - But** (但是): Small **but** strong.
+    
+- **O - Or** (或者): Tea **or** coffee?
+    
+- **Y - Yet** (然而): Simple **yet** effective.
+    
+- **S - So** (所以): It rained, **so** I stayed home.
+    
+
+#### ② 从属连词 (Subordinating Conjunctions)
+
+用来引导**从句**（状语从句等）。它们让一个句子变成另一个句子的“下属”。  
+（我们在阶段四讲过，这里做总结归纳）
+
+- **时间**: when, while, before, after, until, since
+    
+- **原因**: because, as, since
+    
+- **条件**: if, unless
+    
+- **让步**: although, though
+    
+
+#### ③ 关联连词 (Correlative Conjunctions) —— 成双成对
+
+这些连词必须**成对出现**，强调平衡感。
+
+- **Both... and...** (两者都):
+    
+    - **Both** Tom **and** Jerry are here. (复数谓语)
+        
+- **Either... or...** (或者...或者...):
+    
+    - **Either** you **or** he goes. (就近原则)
+        
+- **Neither... nor...** (既不...也不...):
+    
+    - **Neither** fish **nor** meat is healthy.
+        
+- **Not only... but also...** (不仅...而且...):
+    
+    - **Not only** you **but also** he is wrong. (就近原则)
 
 **下一课预告**：有了名词，我们需要用东西来代替它，避免罗嗦。下一课我们将学习**代词 (Pronouns)**，搞清楚 I, me, my, mine 到底怎么用，以及为什么 *He and I* 是对的，*Me and him* 往往被认为是没文化的。
 
@@ -1224,6 +1670,96 @@
 
 **动词是语法的深水区。** 今天我们只是认识了家族成员和基本规则。在未来的时态学习中，我们将反复使用这些知识。
 
+---
+## 第一批次：情态动词 (Modal Verbs) —— 情绪与推测的艺术
+
+情态动词是英语中最具“人情味”的词，它表达的不是事实，而是观点、推测和态度。
+
+### 1. 推测：到底有多大把握？(Degrees of Probability)
+
+当你想说“我觉得可能是...”时，英语有严格的**可能性阶梯**。
+
+- **100% 肯定**：**Must be** (肯定/一定)
+    
+    - The light is on. He **must be** at home. (灯亮着，他**肯定**在家。)
+        
+    - 注意：Must be 的否定不是 Must not be，而是 **Can't be**。
+        
+- **0% 肯定 (不可能)**：**Can't be / Couldn't be**
+    
+    - He just left. He **can't be** at home. (他刚走，**不可能**在家。)
+        
+- **50%~80% 可能 (也许)**：**May / Might / Could**
+    
+    - Where is Tom?
+        
+    - He **may/might/could** be in the library. (也许在...我不确定。)
+        
+    - 注：Might 的可能性比 May 更低一点点，但口语中常混用。
+        
+
+### 2. “后悔药”：情态动词 + Have done
+
+这是阅读理解和听力中的**超高频考点**，专门用来聊“过去本该发生但没发生”的事。
+
+- **Should have done**：**本该做（却没做）** —— 表示责备或后悔。
+    
+    - You **should have told** me earlier. (你本该早点告诉我的！—— 事实是没告诉我)
+        
+    - I **should have studied** harder. (我当时本该努力学习的。)
+        
+- **Must have done**：**过去一定做了** —— 表示对过去的肯定推测。
+    
+    - The road is wet. It **must have rained** last night. (路是湿的，昨晚**肯定**下雨了。)
+        
+- **Could have done**：**本可以做（却没做）** —— 表示遗憾。
+    
+    - He **could have passed** the exam, but he was lazy. (他本可以考过的，但他太懒了。)
+        
+- **Needn't have done**：**本没必要做（却做了）**。
+    
+    - You **needn't have bought** so much food. (你本没必要买这么多吃的 —— 结果买了一堆，浪费了。)
+        
+
+### 3. Must vs Have to
+
+都翻译成“必须”，但有内涵差异。
+
+- **Must**：**主观意愿**（我觉得必须）。
+    
+    - I **must** go now. (我想走了，我得走了。)
+        
+- **Have to**：**客观强迫**（不得不）。
+    
+    - I **have to** work on weekends. (老板逼的，没办法。)
+        
+    - Tomorrow is Sunday, so I **don't have to** get up early. (不必/不需要。)
+        
+
+---
+
+### 4. 补充：特殊的 Dare 和 Need
+
+这两个词是“蝙蝠”，有时是情态动词，有时是实义动词。
+
+- **作情态动词** (多用于否定/疑问)：
+    
+    - How **dare** you say that? (你怎么敢说那话？—— 后面直接跟动词原形)
+        
+    - You **needn't** come. (你不必来。)
+        
+- **作实义动词** (有人称变化，用to do)：
+    
+    - He **dares to** jump. (他敢跳。)
+        
+    - I **need to** go. (我需要走。)
+        
+
+---
+
+**第一批次（情态动词深度补完）已输出完毕。**
+
+
 **下一课预告**：我们将学习修饰语——**形容词 (Adjectives) 和 副词 (Adverbs)**。
 你知道吗？*good* 是形容词，*well* 是副词；为什么说 *He runs fast* 而不是 *fastly*？为什么是 *a beautiful red flower* 而不是 *a red beautiful flower*？
 
@@ -1394,6 +1930,520 @@
 
 准备好成为建筑师了吗？
 
+---
+## 第一模块：介词 (Prepositions) —— 英语的“时空坐标”
+
+介词是英语中最小、最难用准的词。很多时候，动词决定了动作的方向，而**介词决定了动作的落点**。
+
+我们将从**空间逻辑、时间逻辑、方式逻辑、固定搭配**四个维度，全面拆解介词。
+
+### 1. 核心三角：At / On / In (时空金字塔)
+
+这三个词构成了英语时空观的基础，它们遵循**“范围从小到大”**的金字塔逻辑。
+
+#### ① At —— 维度：点 (Point)
+
+- **空间含义**：**某一点**。不强调在里面还是上面，只是一个定位点。
+    
+    - at the door (在门口) / at the bus stop (在车站) / at the corner (在拐角)
+        
+    - at home / at school / at work (抽象的地点概念)
+        
+- **时间含义**：**具体的时刻** (Clock time)。
+    
+    - at 6:00 / at noon (正午) / at night (在夜晚 - 特例) / at that moment
+        
+
+#### ② On —— 维度：面 / 线 (Surface / Line)
+
+- **空间含义**：**接触表面**。
+    
+    - on the table (桌面上) / on the wall (墙面上) / on the floor (地板上)
+        
+    - on the street (在街上 - 路面) / on the river (在河畔 - 线)
+        
+    - **交通工具特例**：凡是能**站直行走**的，都用 On (on the bus, on the train, on the plane, on the ship)；只能坐着弯腰进的用 In (in a car, in a taxi)。
+        
+- **时间含义**：**具体的某一天** (Day)。
+    
+    - on Monday / on my birthday / on Christmas Day
+        
+    - on the morning of May 1st (虽然是morning，但后面限定了具体日期，所以由in变为on)
+        
+
+#### ③ In —— 维度：体 / 容器 (Volume / Container)
+
+- **空间含义**：**被包裹在内部**。
+    
+    - in the box / in the room / in the water
+        
+    - **大地点**：in Beijing / in China / in the world (城市和国家被视为大容器)
+        
+- **时间含义**：**一段时间** (Period)。
+    
+    - in May (月份) / in 2024 (年份) / in summer (季节) / in the 21st century (世纪)
+        
+    - in the morning / in the afternoon (泛指的时段)
+        
+
+---
+
+### 2. 动态介词：方向与位移
+
+当句子中的动词表示“移动”时，介词负责描述移动的轨迹。
+
+- **To vs Towards**
+    
+    - **To**：目的地明确，到达了。 (Go **to** school)
+        
+    - **Towards**：朝向，不一定到达。 (Walk **towards** the door)
+        
+- **From**：来源/起点。 (I come **from** China)
+    
+- **Into vs Out of**
+    
+    - **Into**：从外进入内。 (Jump **into** the river)
+        
+    - **Out of**：从内出来。 (Get **out of** the car)
+        
+- **Onto vs Off**
+    
+    - **Onto**：跳到...上面。 (Jump **onto** the box)
+        
+    - **Off**：脱离/离开表面。 (The book fell **off** the table)
+        
+- **Across vs Through**
+    
+    - **Across**：横穿（表面）。 (Walk **across** the road - 过马路)
+        
+    - **Through**：穿过（内部/空间）。 (Walk **through** the forest - 穿过森林)
+        
+
+---
+
+### 3. 方式与工具：By / With / In
+
+这三个词都常翻译为“用”，是混淆的高发区。
+
+- **By**：强调**手段、方式、交通**。
+    
+    - I go to school **by** bus. (交通)
+        
+    - I learn English **by** watching TV. (方法 - by doing)
+        
+    - Payment **by** credit card. (支付方式)
+        
+- **With**：强调**具体的工具、身体部位、伴随**。
+    
+    - I write **with** a pen. (用笔这个工具)
+        
+    - He sees **with** his eyes.
+        
+    - I live **with** my parents. (伴随)
+        
+- **In**：强调**材料、语言、声音、颜色**。
+    
+    - Write **in** ink. (用墨水)
+        
+    - Speak **in** English. (用英语)
+        
+    - The girl **in** red. (穿着红衣)
+        
+
+---
+
+### 4. 易错方位介词
+
+- **Between vs Among**
+    
+    - **Between**：两者之间。 (Between A and B)
+        
+    - **Among**：三者或以上之间。 (Among the students)
+        
+- **Over vs Above**
+    
+    - **Over**：正上方（垂直），或者覆盖。 (The bridge is **over** the river.)
+        
+    - **Above**：位置高于（不一定垂直）。 (The plane is **above** the clouds.)
+        
+- **Under vs Below**
+    
+    - **Under**：正下方（垂直）。 (Under the table)
+        
+    - **Below**：位置低于（如温度、水平面）。 (Below zero)
+        
+
+---
+
+### 5. 介词的“隐形翅膀”：固定搭配 (Collocations)
+
+很多时候，介词没有逻辑，完全是动词或形容词的“固定伴侣”。这是积累的重点。
+
+- **动词 + 介词**：
+    
+    - Wait **for** (等)
+        
+    - Listen **to** (听)
+        
+    - Look **at** (看)
+        
+    - Belong **to** (属于)
+        
+    - Depend **on** (取决于)
+        
+    - Succeed **in** (成功)
+        
+- **形容词 + 介词**：
+    
+    - Good **at** (擅长) / Good **for** (对...有益)
+        
+    - Afraid **of** (害怕)
+        
+    - Interested **in** (感兴趣)
+        
+    - Famous **for** (因...闻名)
+        
+    - Angry **with** (生某人的气)
+        
+
+---
+
+**第一模块（介词详解）已输出完毕。**
+
+---
+## 第二模块：构词法 (Word Formation) —— 单词的乐高积木
+
+英语单词主要有三种构成方式：**派生法**（词根词缀）、**合成法**（两个词拼在一起）和**转化法**（词性直接变）。其中最核心、威力最大的是**派生法**。
+
+### 1. 核心零件：词根 (Roots) —— 含义的灵魂
+
+词根决定了一个单词最本质的意思。哪怕你不认识这个词，只要看到了熟悉的词根，就能猜个八九不离十。
+
+以下是英语中最高频的几个“超级词根”：
+
+|   |   |   |
+|---|---|---|
+|词根|含义|衍生单词 (Examples)|
+|**vis / vid**|看 (see)|**vis**ion (视力), **vis**ible (可见的), **vid**eo (视频), **vis**it (参观)|
+|**port**|搬运/拿 (carry)|im**port** (进口), ex**port** (出口), trans**port** (运输), **port**able (便携的)|
+|**struct**|建造 (build)|**struct**ure (结构), con**struct** (建造), de**struct**ion (破坏)|
+|**dict**|说 (say)|**dict**ionary (字典-说话的录), pre**dict** (预言-提前说), contra**dict** (反驳)|
+|**fact / fect**|做 (make/do)|**fact**ory (工厂), ef**fect** (效果), per**fect** (完美的-做透了)|
+|**aud**|听 (hear)|**aud**io (音频), **aud**ience (观众/听众)|
+|**tract**|拉 (pull)|**tract**or (拖拉机), at**tract** (吸引-拉过来)|
+
+---
+
+### 2. 方向盘：前缀 (Prefixes) —— 改变意思
+
+前缀加在词根的**前面**。它通常**不改变词性**，只改变单词的**意思**（如：否定、方向、数量）。
+
+#### ① 否定前缀 (Negative)
+
+- **un-**: 最通用。
+    
+    - happy (快乐) → **un**happy (不快乐)
+        
+    - lock (锁) → **un**lock (解锁)
+        
+- **dis-**: 表示相反或分离。
+    
+    - like → **dis**like (不喜欢)
+        
+    - agree → **dis**agree (不同意)
+        
+- **in-** (及其变形 **im- / il- / ir-**): 源自拉丁语，通常加在形容词前。
+    
+    - **in-**: correct → **in**correct (不正确)
+        
+    - **im-** (在 b, p, m 开头的词前): possible → **im**possible (不可能), polite → **im**polite (不礼貌)
+        
+    - **il-** (在 l 开头的词前): legal → **il**legal (非法的)
+        
+    - **ir-** (在 r 开头的词前): regular → **ir**regular (不规律的)
+        
+
+#### ② 方向前缀 (Direction)
+
+- **re-**: 向后，或者“再一次”。
+    
+    - return (返回), review (复习/回顾), restart (重启)
+        
+- **pre-**: 在...之前。
+    
+    - view → **pre**view (预览)
+        
+    - history → **pre**historic (史前的)
+        
+- **ex-**: 向外，或者“前任”。
+    
+    - exit (出口), **ex**port (出口), **ex**-boyfriend (前男友)
+        
+- **trans-**: 穿过，转移。
+    
+    - **trans**port (运输), **trans**late (翻译 - 语言的转移)
+        
+
+---
+
+### 3. 变身器：后缀 (Suffixes) —— 改变词性
+
+后缀加在词根的**后面**。它通常**改变词性**，是判断一个词是名词、动词还是形容词的关键线索。
+
+#### ① 名词后缀 (Noun Suffixes)
+
+- **指人**:
+    
+    - **-er**: teach → teach**er**
+        
+    - **-or**: act → act**or**
+        
+    - **-ist**: art → art**ist** (艺术家)
+        
+- **指抽象概念/动作**:
+    
+    - **-tion / -sion**: educate → educa**tion** (教育), decide → deci**sion** (决定)
+        
+    - **-ment**: agree → agree**ment** (协议)
+        
+    - **-ness**: happy → happi**ness** (幸福 - 状态)
+        
+
+#### ② 形容词后缀 (Adjective Suffixes)
+
+- **-ful** (充满...的): help → help**ful** (有帮助的)
+    
+- **-less** (没有...的): use → use**less** (无用的), care → care**less** (粗心的)
+    
+- **-able / -ible** (能...的): eat → eat**able** (可食用的), reason → reason**able** (合理的)
+    
+- **-ive**: act → act**ive** (活跃的)
+    
+- **-ous**: danger → danger**ous** (危险的)
+    
+
+#### ③ 动词后缀 (Verb Suffixes)
+
+- **-ize / -ise**: real → real**ize** (实现/意识到)
+    
+- **-fy**: simple → simpli**fy** (简化)
+    
+- **-en**: wide → wid**en** (加宽), short → short**en** (缩短)
+    
+
+#### ④ 副词后缀 (Adverb Suffixes)
+
+- **-ly**: 绝大多数形容词加 ly 变副词。
+    
+    - quick → quick**ly**
+        
+    - real → real**ly**
+        
+
+---
+
+### 4. 其他构词法 (Other Methods)
+
+#### ① 合成法 (Compounding)
+
+把两个单词直接拼在一起，变成一个新词。所见即所得。
+
+- Black + board = **Blackboard** (黑板)
+    
+- Rain + coat = **Raincoat** (雨衣)
+    
+- Bed + room = **Bedroom** (卧室)
+    
+- Note + book = **Notebook** (笔记本)
+    
+
+#### ② 转化法 (Conversion)
+
+拼写完全不变，但词性变了。这是英语灵活性的体现。
+
+- **Water**:
+    
+    - (n.) Give me some **water**. (水)
+        
+    - (v.) I need to **water** the flowers. (浇水)
+        
+- **Book**:
+    
+    - (n.) Read a **book**. (书)
+        
+    - (v.) I want to **book** a hotel. (预订)
+        
+- **Text**:
+    
+    - (n.) Read the **text**. (文本)
+        
+    - (v.) I will **text** you. (发短信)
+        
+
+---
+## 第五批次：动词短语的逻辑 (Phrasal Verbs) —— 小品词的灵魂
+
+动词短语通常由 **动词 (Verb) + 小品词 (Particle)** 组成。  
+这里的**小品词**（主要是副词/介词，如 up, down, off, on）才是短语意思的**灵魂**。
+
+### 1. 灵魂密码：Up (向上 / 彻底 / 完结)
+
+Up 不仅仅是“向上”，它在逻辑上引申为**“到了极限”、“彻底完成了”**。
+
+- **含义 1：向上 (Literal)**
+    
+    - Stand **up** (站起来) / Pick **up** (捡起来)
+        
+- **含义 2：彻底、完结 (Completely/To the end)**
+    
+    - Eat **up** (吃光！—— 吃到盘子朝天)
+        
+    - Use **up** (用光)
+        
+    - Give **up** (放弃 —— 给到了极限，彻底交出去了)
+        
+    - Break **up** (彻底破碎/分手)
+        
+    - Burn **up** (烧毁)
+        
+- **含义 3：出现、增加 (Appearance/Increase)**
+    
+    - Turn **up** the volume (调大音量)
+        
+    - Show **up** (露面/出现)
+        
+    - Bring **up** (抚养/提出话题)
+        
+
+### 2. 灵魂密码：Off (脱离 / 远离 / 停止)
+
+Off 的核心逻辑是**“分离”** (Separation) 和 **“断开状态”**。
+
+- **含义 1：脱离、离开 (Away from surface)**
+    
+    - Take **off** (起飞/脱下衣服 —— 离开了地面/身体)
+        
+    - Get **off** (下车)
+        
+    - Set **off** (出发)
+        
+- **含义 2：停止、取消、切断 (Stop/Disconnect)**
+    
+    - Turn **off** (关掉 —— 切断电源)
+        
+    - Call **off** (取消 —— 喊停)
+        
+    - Cut **off** (切断/打断)
+        
+    - Log **off** (登出)
+        
+
+### 3. 灵魂密码：On (接触 / 持续 / 启动)
+
+On 的核心逻辑是**“接触”**，引申为**“连接状态”**或**“动作在继续”**。
+
+- **含义 1：接触、覆盖 (Contact)**
+    
+    - Put **on** (穿上 —— 衣服接触身体)
+        
+    - Try **on** (试穿)
+        
+- **含义 2：持续进行 (Continuation)** —— **非常重要！**
+    
+    - Go **on** (继续)
+        
+    - Carry **on** (坚持下去)
+        
+    - Move **on** (向前看/继续前行)
+        
+    - Hold **on** (坚持住/别挂电话)
+        
+- **含义 3：启动、连接 (Activation)**
+    
+    - Turn **on** (打开)
+        
+    - Switch **on** (接通)
+        
+
+### 4. 灵魂密码：Out (向外 / 显露 / 清楚)
+
+Out 的核心逻辑是**“出”**，引申为**“结果出来了”、“弄清楚了”**。
+
+- **含义 1：向外 (Outward)**
+    
+    - Get **out** (出去) / Take **out** (拿出来/外卖)
+        
+- **含义 2：显露、清楚 (Clear/Visible)**
+    
+    - Find **out** (查明/发现 —— 找出来了)
+        
+    - Figure **out** (想通了/弄明白 —— 计算出来了)
+        
+    - Point **out** (指出)
+        
+    - Stand **out** (杰出 —— 站出来了，很显眼)
+        
+- **含义 3：耗尽 (Extinguished/Empty)**
+    
+    - Run **out** of (用完了)
+        
+    - Put **out** the fire (扑灭火)
+        
+
+---
+
+### 5. 语法大坑：代词的位置 (Syntax Rule)
+
+这是动词短语唯一的语法难点。
+
+**规则：**  
+如果短语是 **及物动词 + 副词** (如 turn on, pick up)，且宾语是 **代词 (it/them)**，代词**必须放在中间**！
+
+- **宾语是名词**：放中间或后面都行。
+    
+    - ✅ Turn on **the light**.
+        
+    - ✅ Turn **the light** on.
+        
+- **宾语是代词**：**只能夹心！**
+    
+    - ✅ Turn **it** on.
+        
+    - ❌ Turn on **it**. (绝对错误！)
+        
+    - ✅ Pick **them** up.
+        
+    - ❌ Pick up **them**.
+        
+
+> 注意：如果是“动词+介词” (Look at, Listen to)，代词放在后面。
+> 
+> - ✅ Look at **it**. (不能说 Look it at)
+>     
+
+---
+
+### 6. 必背的“反直觉”短语 (Tricky Ones)
+
+有些短语的逻辑比较绕，需要特别记忆：
+
+- **Look forward to** (期待): 这里的 to 是介词，后面要加 **doing**！
+    
+    - I look forward to **seeing** you.
+        
+- **Put up with** (忍受): 把(怨气)收起来跟着你走。
+    
+- **Come up with** (想出): 带着(想法)走上前来。
+    
+- **Run out of** (耗尽): 从...跑光了。
+    
+- **Get along with** (与...相处): 一起走长路。
+    
+
+---
+
+
+**第二模块（构词法详解）已输出完毕。**
 ---
 欢迎来到**阶段三：句法核心 (Syntax)** 的第一课！
 
@@ -2305,6 +3355,125 @@
 
 剩下的时态（如将来进行时、现在完成进行时）都是这些基础时态的**“排列组合”**。
 
+---
+## 第三批次：被雪藏的高级时态 (Advanced Tenses) —— 精确的时间刻度
+
+### 1. 现在完成进行时 (Present Perfect Continuous)
+
+**公式**：**Have/Has + been + doing**  
+**核心逻辑**：**一直在做**。  
+它结合了“完成时”的回顾视角和“进行时”的动作感。强调动作**从过去开始，一直持续到现在**，并且往往**强调过程的辛苦**或**动作的副作用**。
+
+#### ① 强调“过程”与“未完成”
+
+- **对比 A (现在完成时)**：I **have painted** the room.
+    
+    - (意思是：我刷完了。房间现在是新的。—— 强调结果)
+        
+- **对比 B (现在完成进行时)**：I **have been painting** the room.
+    
+    - (意思是：我一直在刷漆。可能刚刷完，也可能没刷完。重点是：**看我这一身油漆，累死我了**。—— 强调过程)
+        
+
+#### ② 抱怨与解释 (Complaint & Side Effects)
+
+这是口语中最地道的用法，用来解释当下的状态。
+
+- Why are you sweating? (你怎么出这么多汗？)
+    
+- I **have been running**. (我刚才一直在跑步来着。)
+    
+- It **has been raining** all day. (雨下了一整天了！—— 烦躁)
+    
+
+---
+
+### 2. 将来进行时 (Future Continuous)
+
+**公式**：**Will + be + doing**  
+**核心逻辑**：**将来的某个时刻，正在发生**。  
+这不仅仅是预言，它在现代英语中常被用来表示**礼貌**和**预定行程**。
+
+#### ① 画面感 (Projection)
+
+想象你穿越到未来某一刻，看到什么？
+
+- Don't call me at 8:00 tonight. I **will be watching** the game.
+    
+    - (别在8点打给我，那时我肯定正看比赛呢。)
+        
+
+#### ② 高级礼貌策略 (Politeness)
+
+这是商务英语的必修课。用“将来进行时”提问，比用 Will 听起来更柔和、更不具侵略性。
+
+- **普通版**：Will you stay here tonight? (你今晚住这儿吗？—— 听起来像查户口或者赶人)
+    
+- **高级版**：**Will** you **be staying** here tonight? (您今晚会住在这儿吗？—— 听起来像是顺便问一下，不给对方压力)
+    
+
+---
+
+### 3. 将来完成时 (Future Perfect)
+
+**公式**：**Will + have + done**  
+**核心逻辑**：**以未来的某一点为界，回头看**。  
+它一定要搭配一个**截止时间 (Deadline)**，通常是 **"By..."**。
+
+#### ① 截止日期的承诺
+
+- By the end of this year, I **will have finished** this book.
+    
+    - (到今年年底为止，我将已经写完这本书了。)
+        
+- We **will have been** married for 10 years by next June.
+    
+    - (到明年6月，我们结婚就满10年了。)
+        
+
+---
+
+### 4. 过去将来时 (Future in the Past)
+
+**公式**：**Would + do** / **Was going to + do**  
+**核心逻辑**：**站在过去看将来**。  
+通常出现在讲故事（回忆录）中，或者表示**“原本打算做某事（但没做成）”**。
+
+- I knew he **would come**. (我当时就知道他会来。)
+    
+- **表示遗憾的计划**：
+    
+    - I **was going to** call you, but I forgot.
+        
+    - (我原本打算给你打电话的，但我忘了。)
+        
+
+---
+
+### 5. 时态终极图谱 (Timeline Summary)
+
+为了帮你理清这复杂的时空关系，请在脑海中画出这幅图：
+
+1. **Past** (过去): I did.
+    
+2. **Present** (现在): I do.
+    
+3. **Future** (将来): I will do.
+    
+4. **Past ➔ Present** (桥梁): I have done.
+    
+5. **Past ➔ Present ➔ ...** (持续): I have been doing.
+    
+6. **Before Past** (过去的过去): I had done.
+    
+7. **Future Deadline** (将来的截止): I will have done.
+    
+
+---
+
+**第三批次（高级时态深度补完）已输出完毕。**
+
+
 **阶段三（句法核心）即将进入尾声。**
 下一课，我们将学习英语语法的**“被动语态” (Passive Voice)**。
 为什么说 *The window broke* 可能是错的，而必须说 *The window was broken*？如果你想表达“我被骗了”、“作业做完了”，该怎么说？
@@ -2458,6 +3627,162 @@
 
 准备好让你的句子变长了吗？
 
+---
+## 第三模块：主谓一致 (Subject-Verb Agreement) —— 数的严谨逻辑
+
+**核心原则 (General Rule)：**
+
+- **单数主语** (He / She / It / The apple) → **单数谓语** (is / has / does / works)。
+    
+- **复数主语** (They / We / The apples) → **复数谓语** (are / have / do / work)。
+    
+
+这听起来很简单，但当主语变得很长、很复杂时，陷阱就出现了。
+
+### 1. 第一关：就近原则 (Proximity Rule) —— 谁离得近听谁的
+
+当主语由以下连词连接时，谓语动词的单复数**取决于离动词最近的那个主语**。
+
+- **连词名单**：
+    
+    - **Or** (或者)
+        
+    - **Either... or...** (要么...要么...)
+        
+    - **Neither... nor...** (既不...也不...)
+        
+    - **Not only... but also...** (不仅...而且...)
+        
+    - **There be 句型** (There is/are...)
+        
+- **实战演练**：
+    
+    - Either you or **he is** right. (离动词最近的是 he，所以用 is)
+        
+    - Neither he nor **they know** the answer. (离动词最近的是 they，所以用 know)
+        
+    - There **is** a pen and two books on the desk. (离动词最近的是 a pen，所以用 is)
+        
+    - There **are** two books and a pen on the desk. (离动词最近的是 two books，所以用 are)
+        
+
+### 2. 第二关：就远原则 (Distance Rule) —— 认准老大的位置
+
+当主语后面跟了一长串修饰成分（“小弟”）时，千万不要被干扰。谓语动词**只看最前面的核心主语（老大）**。
+
+- **标志词**（这些词引导的都是插入语，不影响主语的数）：
+    
+    - **with / together with / along with** (和...一起)
+        
+    - **as well as** (以及)
+        
+    - **including** (包括)
+        
+    - **except / but** (除了)
+        
+    - **like** (像...一样)
+        
+- **实战演练**：
+    
+    - **The teacher**, together with his students, **is** planting trees.
+        
+        - (老大是 Teacher [单数]。后面那一串都是跟班，不用管。所以用 is)
+            
+    - **Nobody** but the twins **was** late.
+        
+        - (老大是 Nobody [单数]。twins 只是被排除的对象。所以用 was)
+            
+    - **The house**, as well as the gardens, **looks** beautiful.
+        
+
+### 3. 第三关：不定代词 (Indefinite Pronouns) —— 永远的单数
+
+只要见到以下这些词做主语，**一律按单数处理**。
+
+- **名单**：
+    
+    - **Every-**: Everyone, Everybody, Everything
+        
+    - **Any-**: Anyone, Anybody, Anything
+        
+    - **Some-**: Someone, Somebody, Something
+        
+    - **No-**: No one, Nobody, Nothing
+        
+    - **Each** (每一个), **Either** (两个之一), **Neither** (两者都不)
+        
+- **实战演练**：
+    
+    - **Everyone is** here. (大家都在这儿。—— 哪怕“大家”听起来像复数，语法上也是单数)
+        
+    - **Each** of the students **has** a book. (强调的是“每一个”，单数)
+        
+
+### 4. 第四关：集合名词 (Collective Nouns) —— 看语境
+
+这类词最具迷惑性，它们既可以看作一个整体，也可以看作一群成员。
+
+- **常见词**：Family (家庭), Team (队), Class (班级), Group (组), Audience (观众), Government (政府).
+    
+- **判断法则**：
+    
+    - **强调整体 (The whole unit)** → **单数**
+        
+        - The team **is** the best. (这个队伍是最棒的。—— 作为一个整体)
+            
+    - **强调成员 (The members)** → **复数**
+        
+        - The team **are** taking a shower. (队员们正在洗澡。—— 每个人都在洗，不能是一个整体在洗)
+            
+
+### 5. 第五关：特殊的“单与复” (Tricky Nouns)
+
+#### ① 貌似复数，实为单数 (False Plural)
+
+有些词以 's' 结尾，但它们是不可数名词或学科名，谓语用**单数**。
+
+- **News** (新闻): The news **is** bad.
+    
+- **学科**: **Maths** (数学), **Physics** (物理), **Politics** (政治).
+    
+- **疾病**: **Diabetes** (糖尿病).
+    
+
+#### ② 貌似单数，实为复数 (False Singular)
+
+有些词长得很老实，没有 's'，但意思是“人们”或“群体”，谓语用**复数**。
+
+- **People** (人们): People **are** crazy.
+    
+- **Police** (警方): The police **are** searching for him.
+    
+- **Cattle** (牛群): The cattle **are** eating grass.
+    
+
+#### ③ 抽象单位 —— 视作整体
+
+表示**时间、距离、金钱、重量**的复数名词，被看作一个整体概念时，谓语用**单数**。
+
+- **Ten years is** a long time. (十年这一段时间，是很长的。)
+    
+- **100 dollars is** enough. (100块这笔钱，够了。)
+    
+
+### 6. 终极辨析：A number of vs The number of
+
+这是选择题必考点。
+
+- **A number of** = Many (许多)。核心词是后面的复数名词。
+    
+    - → **复数谓语**
+        
+    - A number of students **are** playing. (许多学生在玩。)
+        
+- **The number of** = ...的数量 (The count)。核心词是 Number (数字)。
+    
+    - → **单数谓语**
+        
+    - The number of students **is** 50. (学生的数量是50。)
 ---
 欢迎来到**阶段四：高级句法 (Advanced Syntax)** 的第一课！
 
@@ -2900,6 +4225,192 @@
 3.  他跑得如此之快，以至于我追不上他。(so... that...)
     __________________________________
 
+---
+## 第四批次：间接引语与反意疑问句 (Reported Speech & Question Tags)
+
+### 1. 间接引语 (Reported Speech) —— “八卦”的艺术
+
+要把别人说的话（直接引语）转述给第三个人听（间接引语），你需要做三次**“大挪移”**。
+
+**核心场景**：
+
+- 他当时说："I **am** busy **here** **now**." (直接引语)
+    
+- 你转述说：He said that he **was** busy **there** **then**. (间接引语)
+    
+
+#### ① 第一挪：时态后退 (Tense Backshift)
+
+只要主句的动词是过去式（如 He said），从句里的时态通常要**向后退一步**。
+
+|   |   |   |
+|---|---|---|
+|原话时态|转述时态|逻辑|
+|**一般现在** (am/is/do)|**一般过去** (was/were/did)|当时的“现在”是现在的“过去”|
+|**现在进行** (am doing)|**过去进行** (was doing)||
+|**一般过去** (did)|**过去完成** (had done)|过去的过去|
+|**现在完成** (have done)|**过去完成** (had done)||
+|**一般将来** (will)|**过去将来** (would)||
+|**过去完成** (had done)|**过去完成** (had done)|退无可退，保持不变|
+
+- Tom said, "I **have finished** my work."
+    
+    - → Tom said (that) he **had finished** his work.
+        
+
+#### ② 第二挪：人称变化 (Pronoun Shift)
+
+这个靠逻辑，不用死记。
+
+- He said to me, "I will help you."
+    
+    - → He told me that **he** (指Tom) would help **me** (指我).
+        
+
+#### ③ 第三挪：时空词变化 (Time & Place Shift)
+
+因为你转述时，时间和地点都变了。
+
+- **now** → **then** (那时)
+    
+- **here** → **there** (那里)
+    
+- **today** → **that day**
+    
+- **tomorrow** → **the next day** / **the following day**
+    
+- **yesterday** → **the day before** / **the previous day**
+    
+- **this** → **that**
+    
+
+#### ④ 疑问句的转述 (必考！)
+
+转述问题时，**千万不能保留疑问语序**（倒装），要变成**陈述语序**（主语在前）。这其实就是我们在名词性从句里学的知识。
+
+- **一般疑问句 (Yes/No)**：加 **if / whether**。
+    
+    - He asked, "Are you hungry?"
+        
+    - → He asked me **if I was** hungry. (注意：are 变 was，语序变正)
+        
+- **特殊疑问句 (Wh-)**：保留疑问词。
+    
+    - He asked, "Where do you live?"
+        
+    - → He asked me **where I lived**. (注意：do去掉，live变lived)
+        
+
+#### ⑤ 祈使句的转述 (Command)
+
+转述命令或请求时，用 **tell/ask sb. to do sth.**。
+
+- Mom said, "Open the door!"
+    
+    - → Mom told me **to open** the door.
+        
+- Mom said, "Don't touch it!"
+    
+    - → Mom told me **not to touch** it.
+        
+
+---
+
+### 2. 反意疑问句 (Question Tags) —— 确认的艺术
+
+中文我们说“是吧？”、“对吗？”，英语里要把前面的助动词拎出来反问一下。
+
+**核心原则**：**前肯后否，前否后肯**。 (Positive statement, Negative tag; Negative statement, Positive tag.)
+
+#### ① 基础公式
+
+- It **is** a cat, **isn't** it?
+    
+- You **don't** like apples, **do** you?
+    
+- He **can** swim, **can't** he?
+    
+- They **have** left, **haven't** they?
+    
+
+#### ② 💀 五大死亡陷阱 (必背！)
+
+1. **I am 的反问**
+    
+    - ❌ I am late, am not I? (发音别扭)
+        
+    - ✅ I am late, **aren't I**? (约定俗成，虽然不合逻辑但必须这么用)
+        
+    - 注：I am not late, **am I**? (否定变肯定时，正常用 am I)
+        
+2. **隐形否定词**
+    
+    - 如果句子里有 **never, seldom, hardly, little, few**，句子本身被视为否定句，后面的尾巴要用**肯定**！
+        
+    - He **never** comes late, **does he**? (他从不迟到，是吗？)
+        
+    - ❌ ... doesn't he?
+        
+3. **祈使句 (命令/建议)**
+    
+    - **命令/请求**：不管前面肯定否定，后面通常用 **will you?**
+        
+        - Open the door, **will you**?
+            
+        - Don't talk, **will you**?
+            
+    - **Let's (我们一起做)**：用 **shall we?**
+        
+        - Let's go, **shall we**?
+            
+    - **Let us (请求你让我们做)**：用 **will you?**
+        
+        - Let us go, **will you**? (放我们走吧，好吗？)
+            
+4. **不定代词**
+    
+    - 指人的 (**Everyone, Somebody, Nobody**) → 后尾用 **they**。
+        
+        - Everyone is here, aren't **they**? (为了对应they，is变成了are)
+            
+    - 指物的 (**Everything, Nothing**) → 后尾用 **it**。
+        
+        - Everything is ready, isn't **it**?
+            
+5. **There be 句型**
+    
+    - 主语依然用 **there**。
+        
+    - There is a dog, **isn't there**?
+        
+
+---
+
+### 3. 如何回答反意疑问句？(Yes/No 的逻辑)
+
+这是中国学生最容易脑子打结的地方。
+
+- **中文逻辑**：看对方问得对不对。
+    
+    - 问：你没吃饭对吗？
+        
+    - 答：**对**，我没吃。 / **不对**，我吃了。
+        
+- **英语逻辑**：**看事实！事实是肯定的就说Yes，否定的就说No。** 不管对方怎么问。
+    
+    - 问：You didn't eat, did you? (你没吃，是吧？)
+        
+    - 事实A (如果你吃了)：**Yes**, I did. (不，我吃了。)
+        
+    - 事实B (如果你没吃)：**No**, I didn't. (对，我没吃。)
+        
+
+> **口诀**：**只要你做了，就说Yes；只要没做，就说No。** 不要管问句里的 not。
+
+---
+
+**第四批次（间接引语与反意疑问句深度补完）已输出完毕。**
+
 **恭喜你！**
 你已经掌握了英语句子的**三大从句系统**（名词性、定语、状语）。
 现在的你，已经具备了写出复杂、有逻辑、有文采的长句子的能力。
@@ -3271,6 +4782,231 @@
 6.  **情态动词**：*would* (过去将来时)。因为主句是过去，所以 will 变成了 would。
 
 **看！这就是语法的力量。** 再复杂的句子，在你眼中也不过是积木的组合。
+
+---
+## 第一维度：书写规范与标点 (Mechanics & Punctuation) —— 被忽视的“红绿灯”
+
+很多学生语法全对，但作文依然被判低分，因为不懂标点符号。**英语标点和中文标点有本质区别**。
+
+### 1. 致命伤：逗号粘连 (Comma Splice)
+
+这是中国学生**第一大易错点**。  
+**规则**：**逗号不能连接两个独立的句子！**
+
+- ❌ I love you, you love me. (错！这是两个句子，中间不能只用逗号)
+    
+- ✅ I love you*.** You love me.* (用句号断开)
+    
+- ✅ I love you*;** you love me.* (用分号连接)
+    
+- ✅ I love you*, and** you love me.* (加连词 and)
+    
+
+### 2. 撇号的艺术 (Apostrophe ’ )
+
+撇号只有两个作用：**缩写**和**所有格**。
+
+- **缩写**：It's = It is。
+    
+- **所有格**：
+    
+    - 单数：The boy*'s** bag.*
+        
+    - 复数（以s结尾）：The boys*'** bag.* (只加撇，不加s)
+        
+    - 复数（不以s结尾）：The children*'s** bag.*
+        
+- **易错点**：1990's 还是 1990s？
+    
+    - 表示年代（90年代），现代英语推荐写 **1990s** (不加撇)。
+        
+
+### 3. 大写规则 (Capitalization)
+
+除了句首和人名，以下情况必须大写：
+
+- **I (我)**：永远大写。
+    
+- **星期/月份/节日**：Monday, May, Christmas。（但季节 summer 通常小写）。
+    
+- **语言/国籍**：English, Chinese, French。
+    
+- **头衔（在人名前）**：President Obama (大写) vs The president (泛指，小写)。
+    
+
+---
+
+# 🧹 深度清扫计划
+
+## 第二维度：冠词的高阶地理与抽象规则 (Advanced Articles)
+
+之前讲了 a/an/the 的基础，但在**地理名词**和**抽象用法**上，有非常琐碎的硬性规定。
+
+### 1. 地理名词的“有无The”
+
+- **不加 The**：
+    
+    - **洲/国家/城市**：Asia, China, London (特例：The USA, The UK —— 因为它们是联合体)。
+        
+    - **湖泊/独立山峰**：Lake Michigan, Mount Everest。
+        
+    - **街道**：Wall Street, Fifth Avenue。
+        
+- **必加 The**：
+    
+    - **江河海洋**：The Nile, The Pacific Ocean。
+        
+    - **山脉/群岛**：The Himalayas (喜马拉雅山脉), The Philippines (群岛)。
+        
+    - **方位**：The North, The West。
+        
+
+### 2. 零冠词的高级用法
+
+为什么 Go to school 不加 the？
+
+- **功能 > 地点**：
+    
+    - Go to **school** (去上学 —— 目的是学习)。
+        
+    - Go to **the school** (去学校 —— 比如家长去学校开会，目的是去那个地点，不是去读书)。
+        
+    - 同理：in hospital (住院) vs in the hospital (在医院里)；in prison (坐牢) vs in the prison (在监狱参观)。
+        
+
+### 3. The + 形容词 = 一类人
+
+- The rich = Rich people (富人)。谓语用**复数**。
+    
+- The old (老人), The poor (穷人), The disabled (残疾人)。
+    
+
+---
+
+# 🧹 深度清扫计划
+
+## 第三维度：虚拟语气的“遗珠” (Subjunctive Niches)
+
+除了 If 条件句，还有几个句型**强制使用**虚拟语气。
+
+### 1. It is (high) time... (该是...的时候了)
+
+**规则**：后面从句必须用**过去式**！
+
+- It is time you **went** to bed. (你早该睡觉了！—— 暗示现在还没睡，有点晚了)
+    
+- It is high time we **started**.
+    
+
+### 2. Would rather (宁愿)
+
+**规则**：如果后面接从句，用**过去式**。
+
+- I would rather you **came** tomorrow. (我宁愿你明天来 —— 别今天来)。
+    
+
+### 3. "建议/命令" 系列 (Subjunctive with Commands)
+
+当动词是 **suggest (建议), order (命令), demand (要求), insist (坚持)** 时，后面的从句必须用 **(should) + 动词原形**。
+
+- I suggest that he **(should) go** home. (即使主语是he，也不能用goes！)
+    
+- The doctor ordered that the patient **stay** in bed.
+    
+
+### 4. As if / As though (好像)
+
+- 如果这一刻是真的（看起来像）：用陈述语气。
+    
+    - It looks as if it is going to rain. (云很黑，真要下。)
+        
+- 如果这一刻是假的（比喻）：用虚拟语气（过去式）。
+    
+    - He talks as if he **were** the boss. (他说得好像他是老板一样 —— 其实他不是。)
+        
+
+---
+
+# 🧹 深度清扫计划
+
+## 第四维度：易混词汇的终极辨析 (Confusing Pairs)
+
+这是词汇精准度的最后一道关卡。
+
+### 1. Make vs Do
+
+- **Make (创造/产生)**：无中生有。
+    
+    - Make a cake, make a decision, make a mistake, make money, make friends.
+        
+- **Do (执行/从事)**：做本来就存在的事。
+    
+    - Do homework, do business, do the dishes (洗碗), do me a favor.
+        
+
+### 2. Say / Tell / Speak / Talk
+
+- **Say (内容)**：He said "Hello". / He said that...
+    
+- **Tell (告诉对象)**：Tell **me**. / Tell a story. / Tell the truth. (必须跟人或故事)
+    
+- **Speak (语言/单向)**：Speak English. / Can I speak to Tom? (打电话)
+    
+- **Talk (交流/双向)**：Talk to me. / Talk about music.
+    
+
+### 3. Rise vs Raise
+
+- **Rise (vi. 自己升)**：The sun rises. (不能加宾语)
+    
+- **Raise (vt. 把...举起)**：Raise your hand. (必须加宾语)
+    
+
+### 4. Lay vs Lie (必考噩梦)
+
+- **Lie (躺/位于)** → 过去式 **Lay** → 过去分词 **Lain** → 现在分词 **Lying**。
+    
+- **Lay (下蛋/放置)** → 过去式 **Laid** → 过去分词 **Laid** → 现在分词 **Laying**。
+    
+- **Lie (撒谎)** → 过去式 **Lied**。
+    
+- 记忆技巧：母鸡下蛋(Lay)是下出来的(Laid)，人躺着(Lie)太累(Lay)。
+    
+
+---
+
+# 🧹 深度清扫计划
+
+## 第五维度：语篇连接词 (Discourse Markers) —— 逻辑的“路标”
+
+要把句子组成文章，你需要“路标”。这是写作高分的关键。
+
+### 1. 递进 (Adding)
+
+- Furthermore, Moreover, In addition, Besides. (此外，而且)
+    
+
+### 2. 转折 (Contrasting)
+
+- However, Nevertheless, On the other hand, In contrast. (然而，反之)
+    
+- While / Whereas (连接两个句子表示对比：He is rich, **whereas** I am poor.)
+    
+
+### 3. 因果 (Result)
+
+- Therefore, Consequently, As a result, Thus. (因此)
+    
+
+### 4. 举例 (Exemplifying)
+
+- For instance (比 For example 更正式), Such as (不能放在句首).
+    
+
+### 5. 总结 (Summarizing)
+
+- To sum up, In conclusion, In brief, All in all.
+
 
 ---
 
