@@ -356,3 +356,255 @@ $z$ = 物体表面以上的距离。
 
 > [!warning]- 警示引用块
 > 这是一个警示引用块...
+
+---
+这是一份为您精心整理的 **Markdown 语法大全** 和 **LaTeX 数学公式语法速查表**。
+
+鉴于您使用 VS Code + Obsidian 的工作流，我在标准语法的基础上，特别标注了 **GitHub Flavored Markdown (GFM)** 和 **Obsidian** 的特有语法。
+
+---
+
+# 第一部分：Markdown 语法大全
+
+## 1. 基础排版 (Basic Formatting)
+
+| 描述 | 语法 (源码) | 效果 |
+| :--- | :--- | :--- |
+| **标题** | `# H1`<br>`## H2`<br>`...`<br>`###### H6` | 对应 1-6 级标题 |
+| **加粗** | `**加粗**` 或 `__加粗__` | **加粗** |
+| **斜体** | `*斜体*` 或 `_斜体_` | *斜体* |
+| **粗斜体** | `***粗斜体***` | ***粗斜体*** |
+| **删除线** | `~~删除线~~` | ~~删除线~~ |
+| **高亮** (Obsidian) | `==高亮文本==` | ==高亮文本== |
+| **上标/下标** | `X^2^` / `H~2~O` | X<sup>2</sup> / H<sub>2</sub>O (注: 部分编辑器需开启支持) |
+
+## 2. 列表 (Lists)
+
+### 无序列表
+```markdown
+- 项目 A
+* 项目 B
++ 项目 C
+  - 子项目 (Tab缩进)
+```
+
+### 有序列表
+```markdown
+1. 第一步
+2. 第二步
+   3. 子步骤 (Tab缩进)
+```
+
+### 任务列表 (Task Lists - GitHub/Obsidian)
+```markdown
+- [ ] 未完成任务
+- [x] 已完成任务
+```
+
+## 3. 引用 (Blockquotes)
+
+```markdown
+> 这是一级引用
+>
+> > 这是嵌套的二级引用
+```
+
+## 4. 代码 (Code)
+
+### 行内代码
+```markdown
+使用 `git status` 查看状态。
+```
+
+### 代码块 (Fenced Code Blocks)
+```markdown
+​```python
+def hello():
+    print("Hello World")
+​```
+```
+*(支持 python, javascript, cpp, csharp, java, bash, json 等几乎所有语言的高亮)*
+
+### Diff 语法 (显示代码变动)
+```markdown
+​```diff
+- 移除的代码
++ 新增的代码
+  未变动的代码
+​```
+```
+
+## 5. 链接与图片 (Links & Images)
+
+| 类型 | 语法 | 说明 |
+| :--- | :--- | :--- |
+| **超链接** | `[显示文本](URL)` | 跳转链接 |
+| **图片** | `![Alt文本](图片URL)` | 插入图片 |
+| **带标题图片** | `![Alt](URL "标题")` | 鼠标悬停显示标题 |
+| **调整大小** | `<img src="url" width="50%">` | 使用 HTML 控制大小 |
+| **内部链接** | `[[文件名]]` | **Obsidian 专用双向链接** |
+| **引用链接** | `[[文件名#标题]]` | **Obsidian 专用锚点** |
+
+## 6. 表格 (Tables)
+
+```markdown
+| 左对齐 | 居中对齐 | 右对齐 |
+| :----- | :----: | ----: |
+| 内容   | 内容   | 内容   |
+| Content| Content| Content|
+```
+
+## 7. 高级功能 (Advanced)
+
+### 脚注 (Footnotes)
+```markdown
+这是一个脚注[^1]。
+
+[^1]: 这里是脚注的解释。
+```
+
+### 分割线
+```markdown
+---
+***
+```
+
+### 警告块 (Callouts / Admonitions)
+*(Obsidian 和 VS Code MPE 插件支持)*
+```markdown
+> [!NOTE] 笔记
+> 这是一个提示块。
+
+> [!WARNING] 警告
+> 注意安全。
+```
+
+---
+
+# 第二部分：LaTeX 数学公式语法大全
+
+在 Markdown 中，使用 `$` 包裹行内公式，使用 `$$` 包裹块级公式。
+*   行内：`$E=mc^2$` $\rightarrow$ $E=mc^2$
+*   块级：
+    ```markdown
+    $$
+    \sum_{i=1}^n i
+    $$
+    ```
+
+## 1. 希腊字母 (Greek Letters)
+
+| 源码 | 显示 | 源码 | 显示 | 源码 | 显示 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `\alpha` | $\alpha$ | `\beta` | $\beta$ | `\gamma` | $\gamma$ |
+| `\delta` | $\delta$ | `\epsilon` | $\epsilon$ | `\zeta` | $\zeta$ |
+| `\eta` | $\eta$ | `\theta` | $\theta$ | `\lambda` | $\lambda$ |
+| `\mu` | $\mu$ | `\pi` | $\pi$ | `\sigma` | $\sigma$ |
+| `\tau` | $\tau$ | `\phi` | $\phi$ | `\omega` | $\omega$ |
+| `\Delta` | $\Delta$ | `\Gamma` | $\Gamma$ | `\Lambda` | $\Lambda$ |
+| `\Pi` | $\Pi$ | `\Sigma` | $\Sigma$ | `\Omega` | $\Omega$ |
+
+## 2. 常用运算符与符号
+
+| 类型 | 语法 | 显示 | 备注 |
+| :--- | :--- | :--- | :--- |
+| **上下标** | `x^2`, `y_1` | $x^2, y_1$ | 多个字符用 `{}` 包裹: `x^{10}` |
+| **算术** | `\times`, `\div` | $\times, \div$ | `\cdot` 显示点乘 $\cdot$ |
+| **分数** | `\frac{a}{b}` | $\frac{a}{b}$ | |
+| **开方** | `\sqrt{x}` | $\sqrt{x}$ | `\sqrt[3]{x}` 显示 $\sqrt[3]{x}$ |
+| **关系** | `\leq`, `\geq`, `\neq` | $\leq, \geq, \neq$ | `\approx` 显示 $\approx$ |
+| **集合** | `\in`, `\subset` | $\in, \subset$ | `\cup`, `\cap` 显示 $\cup, \cap$ |
+| **箭头** | `\rightarrow` | $\rightarrow$ | `\Rightarrow` 显示 $\Rightarrow$ |
+| **无穷** | `\infty` | $\infty$ | |
+| **矢量** | `\vec{a}` | $\vec{a}$ | |
+| **求和** | `\sum_{i=1}^n` | $\sum_{i=1}^n$ | |
+| **积分** | `\int_{0}^{\infty}` | $\int_{0}^{\infty}$ | |
+| **极限** | `\lim_{x \to 0}` | $\lim_{x \to 0}$ | |
+
+## 3. 括号与定界符
+
+**技巧：** 使用 `\left` 和 `\right` 可以让括号自动根据内容调整大小。
+
+| 语法 | 显示 |
+| :--- | :--- |
+| `( \frac{a}{b} )` | $( \frac{a}{b} )$ (括号太小) |
+| `\left( \frac{a}{b} \right)` | $\left( \frac{a}{b} \right)$ (自动调整) |
+| `\left[ x \right]` | $\left[ x \right]$ |
+| `\left\{ x \right\}` | $\left\{ x \right\}$ (注意大括号要转义) |
+
+## 4. 矩阵 (Matrices)
+
+```markdown
+$$
+\begin{bmatrix}
+1 & 2 \\
+3 & 4
+\end{bmatrix}
+$$
+```
+**效果：**
+$$
+\begin{bmatrix}
+1 & 2 \\
+3 & 4
+\end{bmatrix}
+$$
+
+*   `pmatrix`: 圆括号 ()
+*   `bmatrix`: 方括号 []
+*   `vmatrix`: 竖线 ||
+*   `&` 分隔列，`\\` 分隔行。
+
+## 5. 分段函数 (Cases)
+
+```markdown
+$$
+f(x) = \begin{cases}
+x^2 & \text{if } x > 0 \\
+0 & \text{if } x = 0 \\
+-x & \text{if } x < 0
+\end{cases}
+$$
+```
+**效果：**
+$$
+f(x) = \begin{cases}
+x^2 & \text{if } x > 0 \\
+0 & \text{if } x = 0 \\
+-x & \text{if } x < 0
+\end{cases}
+$$
+*注意：在公式中输入普通文本，请使用 `\text{文字}`。*
+
+## 6. 多行公式对齐 (Aligned)
+
+当推导公式需要等号对齐时使用。
+
+```markdown
+$$
+\begin{aligned}
+a &= (x+y)^2 \\
+  &= x^2 + 2xy + y^2
+\end{aligned}
+$$
+```
+**效果：**
+$$
+\begin{aligned}
+a &= (x+y)^2 \\
+  &= x^2 + 2xy + y^2
+\end{aligned}
+$$
+
+## 7. 字体与修饰
+
+*   `\mathbb{R}` $\rightarrow$ $\mathbb{R}$ (实数集)
+*   `\mathcal{L}` $\rightarrow$ $\mathcal{L}$ (拉格朗日量/损失函数)
+*   `\mathbf{x}` $\rightarrow$ $\mathbf{x}$ (粗体向量)
+*   `\hat{y}` $\rightarrow$ $\hat{y}$
+*   `\bar{x}` $\rightarrow$ $\bar{x}$
+
+---
+
+### 建议
+您可以把这两段内容直接复制保存为 `Markdown语法手册.md`，放在您的 Obsidian 或 VS Code 常用项目里，需要的时候随时由 `Ctrl + F` 搜索查阅。
