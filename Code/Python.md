@@ -4863,6 +4863,239 @@ if __name__ == "__main__":
 您准备好创建您的第一个窗口和按钮了吗？
 
 ---
+好的，我们现在深入讲解 Python 内置的 GUI 库——**Tkinter**。
+
+虽然我们在框架选型中提到，对于商业级应用，PyQt/PySide 是首选，但 Tkinter 凭借其**无需安装、轻量、跨平台**的特性，在许多场景下依然是制作**快速原型、内部工具、教学演示、简单脚本图形化界面**的绝佳选择。
+
+本节将带您从入门到精通，不仅掌握 Tkinter 的核心组件和布局，还将深入到**变量类、事件绑定、样式主题**等高级应用，让您能够用 Tkinter 构建出功能完整且有一定美观度的应用。
+
+---
+
+### **Tkinter GUI 编程详解**
+
+#### **第1节：Tkinter 基础与核心组件**
+
+##### **1.1 第一个 Tkinter 窗口**
+
+**基础骨架：**
+Tkinter 应用的结构与 Qt 非常相似，也包含一个主应用实例和一个主窗口。
+
+```python
+import tkinter as tk
+
+# 1. 创建主窗口 (也称为根窗口)
+root = tk.Tk()
+
+# 2. 设置窗口属性
+root.title("My Tkinter App")
+root.geometry("400x300") # "宽度x高度"
+
+# ... 在这里添加组件 ...
+
+# 3. 启动主事件循环
+# mainloop() 会一直运行，直到窗口被关闭
+root.mainloop()
+```
+
+**深入本源与架构师视角：**
+*   **`tk.Tk()`**: 这个对象是整个应用的根，它初始化了 Tcl/Tk 解释器（Tkinter 是对 Tcl/Tk 工具包的 Python 封装）。它也是所有其他组件的顶级父容器。
+*   **`mainloop()`**: 这就是我们在 GUI 范式中讲到的**主事件循环**。它会监听鼠标点击、键盘输入等事件，并调用相应的处理函数。在此调用之后的所有代码，只有在窗口关闭后才会执行。
+
+##### **1.2 核心组件 (Widgets)**
+
+Tkinter 的组件都位于 `tkinter` 模块中，对于更现代、主题化的组件，则位于 `tkinter.ttk` 模块（见后文）。
+
+| 组件 | 用途 | 核心选项 | 示例 |
+| :--- | :--- | :--- | :--- |
+| **`Label`** | 显示文本或图像 | `text`, `image`, `font`, `fg` (前景色), `bg` (背景色) | `tk.Label(root, text="Hello")` |
+| **`Button`** | 按钮 | `text`, `command` (点击时调用的函数) | `tk.Button(root, text="Click", command=my_func)` |
+| **`Entry`** | 单行文本输入 | `width`, `show` (如 `show="*"`) | `tk.Entry(root)` |
+| **`Text`** | 多行文本区域 | `width`, `height` | `tk.Text(root, height=10, width=50)` |
+| **`Frame`** | 容器组件 | `borderwidth`, `relief` (边框样式) | `tk.Frame(root)` |
+| **`Checkbutton`** | 复选框 | `text`, `variable` (关联的变量) | `tk.Checkbutton(root, text="Option")` |
+| **`Radiobutton`** | 单选按钮 | `text`, `variable`, `value` | `tk.Radiobutton(root, text="A", variable=var, value=1)` |
+
+**获取/设置 Entry 和 Text 内容：**
+*   **`Entry`**:
+    *   `entry.get()`: 获取内容。
+    *   `entry.insert(0, "some text")`: 插入内容。
+    *   `entry.delete(0, tk.END)`: 删除内容。
+*   **`Text`**:
+    *   `text.get("1.0", tk.END)`: 获取从第1行第0个字符到末尾的所有内容。
+    *   `text.insert("1.0", "some text")`: 插入内容。
+
+---
+
+#### **第2节：布局管理器 (Geometry Managers)**
+
+与 Qt 类似，Tkinter 严禁使用绝对定位 (`place()`)，而是推崇使用布局管理器。
+
+##### **2.1 `pack()` - 打包布局**
+
+*   **原理**：像在盒子里装东西一样，按顺序将组件“打包”进去。
+*   **核心选项**:
+    *   `side`: `tk.TOP` (默认), `tk.BOTTOM`, `tk.LEFT`, `tk.RIGHT`。
+    *   `fill`: `tk.X` (水平填充), `tk.Y` (垂直填充), `tk.BOTH`。
+    *   `expand`: `True` 或 `False`。如果为 True，当窗口有额外空间时，组件会“扩张”来占据空间。
+    *   `padx`, `pady`: 外边距。
+    *   `ipadx`, `ipady`: 内边距。
+
+**`pack()` 的陷阱**：
+`pack()` 的行为有时会违反直觉，特别是当 `side` 和 `fill` 混合使用时。它的布局逻辑是基于剩余空间分割的。**对于复杂的布局，`pack()` 很快就会变得难以管理。**
+
+##### **2.2 `grid()` - 网格布局 (架构师首选)**
+
+*   **原理**：将父容器想象成一个不可见的二维表格，将组件放置在指定的行 (`row`) 和列 (`column`) 中。
+*   **核心选项**:
+    *   `row`, `column`: 指定单元格位置。
+    *   `rowspan`, `columnspan`: 让组件跨越多行或多列。
+    *   `sticky`: 控制组件在单元格内的对齐方式。使用 `N, S, E, W` (北南东西) 及其组合，如 `tk.W` (西，即左对齐), `tk.NSEW` (填满整个单元格)。
+
+**示例：一个登录表单**
+```python
+import tkinter as tk
+
+root = tk.Tk()
+root.title("Grid Login Form")
+
+# 使用 Frame 容器
+frame = tk.Frame(root, padx=10, pady=10)
+frame.pack(padx=10, pady=10)
+
+# 用户名
+label_user = tk.Label(frame, text="Username:")
+label_user.grid(row=0, column=0, sticky=tk.W, pady=2)
+entry_user = tk.Entry(frame)
+entry_user.grid(row=0, column=1, pady=2)
+
+# 密码
+label_pass = tk.Label(frame, text="Password:")
+label_pass.grid(row=1, column=0, sticky=tk.W, pady=2)
+entry_pass = tk.Entry(frame, show="*")
+entry_pass.grid(row=1, column=1, pady=2)
+
+# 按钮
+button_login = tk.Button(frame, text="Login")
+button_login.grid(row=2, column=1, sticky=tk.E, pady=10)
+
+root.mainloop()
+```
+
+**架构建议**：
+*   **优先使用 `grid()`**。它的逻辑清晰、可预测，能轻松构建复杂的对齐界面。
+*   **不要在同一个父容器中混用 `pack()` 和 `grid()`！** 这会导致程序挂起。
+*   善用 `Frame` 组件将界面划分为多个区域，每个 `Frame` 内部可以使用自己的 `grid()` 或 `pack()` 布局，实现模块化设计。
+
+##### **2.3 `place()` - 绝对定位**
+
+*   **原理**：通过 `x`, `y` 坐标或相对位置 (`relx`, `rely`) 放置组件。
+*   **为什么不推荐**：窗口大小改变时界面会崩溃；不同操作系统/分辨率下显示不一致。
+*   **唯一合理的应用场景**：在需要**在其他组件之上叠加**组件时（如在图片上放置一个按钮）。
+
+---
+
+#### **第3节：事件处理与变量类**
+
+##### **3.1 `command` 与 `bind()`**
+*   **`command=my_func`**: 简单事件。用于 Button, Checkbutton 等。`my_func` 不能接收参数。如果需要传参，请使用 `lambda`：`command=lambda: my_func(arg)`。
+*   **`widget.bind(event_string, handler)`**: 处理更丰富的事件。
+    *   **`event_string`**: 如 `<Button-1>` (鼠标左键单击), `<KeyPress-a>` (按下 a 键), `<Return>` (回车), `<Enter>` (鼠标进入), `<Leave>` (鼠标离开)。
+    *   **`handler`**: 处理函数，**必须接收一个 `event` 对象作为参数**。`event` 对象包含了事件的详细信息（如 `event.x`, `event.y` 鼠标坐标）。
+
+##### **3.2 Tkinter 变量类 (Variable Classes) - 数据与视图的桥梁**
+
+**问题**：如何让一个 `Label` 的文本自动跟随一个 `Checkbutton` 的状态变化？
+**错误方法**：在 Checkbutton 的 `command` 里手动调用 `label.config(text=...)`。这会导致逻辑与视图紧密耦合。
+
+**Tkinter 的解决方案：变量类**
+这些是特殊的 “盒子” 对象，当它们的值改变时，所有关联到它们的组件都会**自动更新**。
+*   `StringVar()`: 存储字符串。
+*   `IntVar()`: 存储整数。
+*   `DoubleVar()`: 存储浮点数。
+*   `BooleanVar()`: 存储布尔值。
+
+**代码示例：**
+```python
+import tkinter as tk
+
+root = tk.Tk()
+
+# 1. 创建一个 StringVar
+my_text = tk.StringVar()
+my_text.set("Initial Value") # 设置初始值
+
+# 2. 将 Entry 和 Label 都关联到这个 StringVar
+entry = tk.Entry(root, textvariable=my_text)
+label = tk.Label(root, textvariable=my_text)
+
+entry.pack(pady=10)
+label.pack(pady=10)
+
+# 当你在 Entry 中输入时，Label 的内容会实时自动更新！
+# 你也可以通过代码改变变量，UI 也会更新
+def change_text():
+    my_text.set("Changed from code!")
+
+tk.Button(root, text="Change", command=change_text).pack()
+
+root.mainloop()
+```
+**架构意义**：
+这实现了**数据与视图的分离**，是响应式编程思想的雏形。你的业务逻辑应该只操作这些变量类，而不用关心具体的 UI 组件是什么。
+
+---
+
+#### **第4. 高级主题与 `ttk`**
+
+##### **4.1 `tkinter.ttk` - 现代主题化组件**
+
+`tkinter` 的原生组件在不同平台下外观差异大，且样式老旧。`ttk` (themed tk) 模块提供了一套使用操作系统**原生主题**的组件。
+
+*   **用法**：只需从 `tkinter.ttk` 导入同名组件即可。
+    `from tkinter.ttk import Button, Label, Entry`
+*   **优点**：
+    *   外观更现代化，与操作系统风格一致。
+    *   提供了一些 `tkinter` 没有的高级组件，如 `Notebook` (标签页), `TreeView` (树状/表格视图), `ProgressBar`。
+*   **架构建议**：**在新项目中，应优先使用 `ttk` 的组件**。
+
+##### **4.2 菜单、对话框与多窗口**
+*   **菜单 (`Menu`)**: 可以创建顶层菜单栏和右键上下文菜单。
+*   **标准对话框 (`tkinter.messagebox`, `tkinter.filedialog`)**:
+    *   `messagebox.showinfo()`, `messagebox.askquestion()`
+    *   `filedialog.askopenfilename()`, `filedialog.asksaveasfilename()`
+*   **多窗口 (`Toplevel`)**:
+    *   `new_window = tk.Toplevel(root)`
+    *   `Toplevel` 窗口依赖于主窗口 `root`，当主窗口关闭时，它也会关闭。
+
+##### **4.3 样式与主题 (`ttk.Style`)**
+`ttk` 引入了更强大的样式系统。你可以定义和修改主题，并为特定类型的组件创建自定义样式。
+
+```python
+from tkinter import ttk
+
+style = ttk.Style()
+# 查看可用主题
+print(style.theme_names())
+# 使用主题
+style.theme_use('clam') 
+# 配置特定样式
+style.configure('TButton', font=('Helvetica', 12), foreground='blue')
+```
+
+---
+
+**本节小结**
+
+在这一节，我们系统地学习了如何使用 Tkinter 构建功能完整的桌面应用：
+1.  **基础**：掌握了创建窗口和核心组件的基本流程。
+2.  **布局**：深刻理解了 `pack` 和 `grid` 的区别，并确立了**优先使用 `grid`** 的最佳实践。
+3.  **数据绑定**：学会了使用 **Tkinter 变量类** 来实现数据与视图的解耦和自动同步，这是编写可维护 Tkinter 应用的关键。
+4.  **现代化**：了解了如何使用 **`ttk`** 模块来获得更现代的外观和更丰富的组件。
+
+至此，您已经具备了使用 Python 内置库快速构建跨平台 GUI 工具的能力。虽然 Tkinter 可能不是构建下一个 Photoshop 的选择，但它作为 Python 开发者工具箱中一个轻便而强大的工具，其价值不可估量。
+
+---
+
 好的，我们继续深入 GUI 编程的世界。在选定了我们的主力框架——**Qt for Python (以 PySide 为例)** 之后，现在我们将学习构建一个窗口程序所必需的三大核心概念。
 
 为您呈现 **新增部分：Python GUI 窗口程序编写** 的 **第2节：GUI 核心概念：组件、布局与信号槽**。

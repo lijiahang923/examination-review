@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4965a019fab9a375",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Study/Markdown语法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Markdown语法"
-            }
-          },
-          {
             "id": "a3342510768d5f94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "课程/电机与电力电子.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "电机与电力电子"
+            }
+          },
+          {
+            "id": "f3bbdefb79331ffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/Python.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Python"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "right": {
     "id": "bb20920cbce5ab2b",
@@ -171,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程/电机与电力电子.md",
+                "file": "Code/Python.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "电机与电力电子 的大纲"
+              "title": "Python 的大纲"
             }
           },
           {
@@ -209,15 +210,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a3342510768d5f94",
+  "active": "f3bbdefb79331ffe",
   "lastOpenFiles": [
+    "Language/日本語/日本語文法.md",
     "Code/Python.md",
     "课程/电机与电力电子.md",
+    "Study/Markdown语法.md",
     "Code/AI.md",
     "Code/C & C++.md",
     "精华.md",
-    "Language/日本語/日本語文法.md",
-    "Study/Markdown语法.md",
     "Language/日本語/日本语语法点合集.md",
     "Code/ROS Jazzy & Gazebo Harmonic.md",
     "课程/传感器与检测技术.md",
